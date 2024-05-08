@@ -28,6 +28,8 @@ view FD
 ![image](https://github.com/Abhinav-k-p/bankingapp/assets/146640328/30329ff6-27c7-471b-b58a-7a972a0fa854)
 view RD
 ![image](https://github.com/Abhinav-k-p/bankingapp/assets/146640328/638fea0c-2641-4deb-a653-982fb5b6bdf7)
+update profile
+![image](https://github.com/Abhinav-k-p/bankingapp/assets/146640328/4caddbf6-181b-4a3a-a8f9-de53e814f976)
 
 
 
